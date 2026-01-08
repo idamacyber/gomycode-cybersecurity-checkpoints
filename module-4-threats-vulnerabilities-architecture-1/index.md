@@ -25,7 +25,7 @@ This module provided insight into how threats and vulnerabilities affect systems
 
 ### 📊 Evidence & Documentation
 
-All screenshots and explanations for this module are documented in the Google Slides below:
+All screenshots and explanations for this module are documented here:
 
-🔗 **Google Slides (Module 4 – Threats, Vulnerabilities & Architecture I)**  
-(https://docs.google.com/presentation/d/1eoxIFlsCw6yiJbS8OERFvsYVZdKdkYTmX1MpI3w_PqI/edit?usp=sharing)
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1eoxIFlsCw6yiJbS8OERFvsYVZdKdkYTmX1MpI3w_PqI/edit?usp=sharing)
+ 
