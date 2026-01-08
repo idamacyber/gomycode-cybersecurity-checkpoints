@@ -22,7 +22,7 @@ Please click each module below to view objectives, learning summary, and evidenc
 🔗 [View Module 5](./module-5-architecture-design-ii/)
 
 ### ✅ Module 6: Cryptography & Secure Solution Implementation  
-🔗 [View Module 6](module-6-cryptography-secure-solution-implementation-i)
+🔗 [View Module 6](module-6-cryptography-secure-solution-implementation)
 
 ---
 ### 🧪 TryHackMe Practical Labs
