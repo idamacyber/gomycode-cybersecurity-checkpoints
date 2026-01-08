@@ -17,7 +17,13 @@ over a network.
 - How networking knowledge supports cybersecurity operations
 
 ## Evidence
-Screenshots from the Networking checkpoint slides are included in this folder.
+
+![Networking Checkpoint](./Checkpoints Networking.png)
+
+![Networking Checkpoint 2](./Checkpoints Networking (1).png)
+
+![Networking Checkpoint 3](./Checkpoints Networking (2).png)
+
 
 ## Summary
 This checkpoint strengthened my understanding of networking fundamentals,
