@@ -18,11 +18,10 @@ over a network.
 
 ## Evidence
 
-![Networking Checkpoint](./Checkpoints Networking.png)
+<img src="./networking-lab-1.png" width="100%" />
 
-![Networking Checkpoint 2](./Checkpoints Networking (1).png)
+<img src="./networking-lab-2.png" width="100%" />
 
-![Networking Checkpoint 3](./Checkpoints Networking (2).png)
 
 
 
