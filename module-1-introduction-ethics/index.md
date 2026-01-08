@@ -15,10 +15,10 @@ To understand the foundations of cybersecurity and the importance of ethics in t
 
 ### 📊 Evidence & Documentation
 
-All screenshots and explanations for this module are documented in the Google Slides below:
+All screenshots and explanations for this module are documented here:
 
-🔗 **Google Slides (Module 1 – Introduction & Ethics)**  
-(https://docs.google.com/presentation/d/1MN6tg1amDH5dMhWOd4kZs9ujzT3nVYaqfp7SEByjpIc/edit?usp=sharing)
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1MN6tg1amDH5dMhWOd4kZs9ujzT3nVYaqfp7SEByjpIc/edit?usp=sharing)
+ 
 
 ## Summary
 This module introduced me to cybersecurity fundamentals and ethical principles that guide responsible security practices.
