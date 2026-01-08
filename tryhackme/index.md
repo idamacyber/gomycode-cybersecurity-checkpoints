@@ -21,10 +21,6 @@ This section documents my hands-on cybersecurity learning using TryHackMe.
 
 I actively practice hands-on cybersecurity labs using TryHackMe to strengthen my technical skills.
 
-## Profile Overview
-
-![TryHackMe Profile](tryhackme.png)
-
 🔗 **TryHackMe Profile:**  
 https://tryhackme.com/p/idamavothuke
 
@@ -34,3 +30,7 @@ https://tryhackme.com/p/idamavothuke
 - Threat detection
 - Blue Team security concepts
 - Security tools and techniques
+
+- ## Profile Overview
+
+![TryHackMe Profile](tryhackme.png)
