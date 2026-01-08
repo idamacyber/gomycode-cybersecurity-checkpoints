@@ -17,7 +17,6 @@ This section documents my hands-on cybersecurity learning using TryHackMe.
 - Burp Suite
 - Linux command line
 # TryHackMe Practical Labs
-# TryHackMe Practical Labs
 
 I actively practice hands-on cybersecurity labs using TryHackMe to strengthen my technical skills.
 
