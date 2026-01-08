@@ -13,17 +13,12 @@ To understand the foundations of cybersecurity and the importance of ethics in t
 - Ethical responsibilities of cybersecurity professionals
 - Why integrity and compliance matter in security work
 
-## Evidence
+### 📊 Evidence & Documentation
 
-![Evidence 1](./evidence1.png)
-![Evidence 2](./evidence2.png)
-![Evidence 3](./evidence3.png)
-![Evidence 4](./evidence4.png)
-![Evidence 5](./evidence5.png)
+All screenshots and explanations for this module are documented in the Google Slides below:
 
-
-
-
+🔗 **Google Slides (Module 1 – Introduction & Ethics)**  
+(https://docs.google.com/presentation/d/1MN6tg1amDH5dMhWOd4kZs9ujzT3nVYaqfp7SEByjpIc/edit?usp=sharing)
 
 ## Summary
 This module introduced me to cybersecurity fundamentals and ethical principles that guide responsible security practices.
