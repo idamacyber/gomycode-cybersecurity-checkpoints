@@ -25,6 +25,7 @@ over a network.
 ![Networking Checkpoint 3](./Checkpoints Networking (2).png)
 
 
+
 ## Summary
 This checkpoint strengthened my understanding of networking fundamentals,
 which are essential for detecting, analyzing, and defending against cyber threats.
