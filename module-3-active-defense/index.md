@@ -22,3 +22,11 @@ Active defense is used in Security Operations Centers (SOC) to monitor systems c
 
 ## Summary
 This module helped me understand how cybersecurity teams actively defend systems by monitoring, detecting, and responding to threats using security tools and processes.
+
+## Evidence
+
+![Checkpoint 1](./Checkpoint%20active%20defense.png)
+![Checkpoint 2](./Checkpoint%20active%20defense%20(1).png)
+![Checkpoint 3](./Checkpoint%20active%20defense%20(2).png)
+![Checkpoint 4](./Checkpoint%20active%20defense%20(3).png)
+![Checkpoint 5](./Checkpoint%20active%20defense%20(4).png)
