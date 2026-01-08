@@ -1,33 +1,31 @@
-## Module 1: Introduction and Ethics in Cybersecurity
+# Gomycode Cybersecurity Checkpoints  
+**Student:** Idamacyber  
 
-### Objective
-To understand the fundamentals of cybersecurity and the importance
-of ethics and responsibility in the cybersecurity profession.
+---
 
-### Key Concepts Covered
-- Definition of cybersecurity
-- CIA Triad (Confidentiality, Integrity, Availability)
-- Ethics in cybersecurity
-- Legal responsibilities of security professionals
+## 📘 Course Checkpoints
 
-### What I Learned
-- Cybersecurity focuses on protecting systems, networks, and data
-- Ethical behavior is critical when handling sensitive information
-- Security professionals must operate within legal boundaries
-- Misuse of cybersecurity skills can lead to serious consequences
+Please click each module below to view objectives, learning summary, and evidence.
 
-### Real-World Relevance
-Ethics guide cybersecurity professionals to act responsibly when
-preventing, detecting, and responding to cyber threats.
+### ✅ Module 1: Introduction & Ethics  
+🔗 [View Module 1](./module-1-introduction-ethics/)
 
-### Summary
-This module provided a strong foundation for understanding cybersecurity
-principles and emphasized the importance of ethics in the field.
+### ✅ Module 2: Networking  
+🔗 [View Module 2](./module-2-networking/)
 
-## Evidence
+### ✅ Module 3: Active Defense  
+🔗 [View Module 3](./module-3-active-defense/)
 
-![Checkpoint Evidence 1](./Checkpoint%20Cryptography%20&%20Secure%20Solution%20(1).png)
-![Checkpoint Evidence 2](./Checkpoint%20Cryptography%20&%20Secure%20Solution%20(2).png)
-![Checkpoint Evidence 3](./Checkpoint%20Cryptography%20&%20Secure%20Solution%20(3).png)
-![Checkpoint Evidence 4](./Checkpoint%20Cryptography%20&%20Secure%20Solution%20(4).png)
+### ✅ Module 4: Threats, Vulnerabilities & Architecture I  
+🔗 [View Module 4](./module-4-threats-vulnerabilities-architecture-1/)
+
+### ✅ Module 5: Architecture & Design II  
+🔗 [View Module 5](./module-5-architecture-design-ii/)
+
+### ✅ Module 6: Cryptography & Secure Solution Implementation  
+🔗 [View Module 6](./module-6-cryptography-secure-solution-implementation/)
+
+---
+
+📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
 
