@@ -1,4 +1,4 @@
-# Module 6: Cryptography & Secure Solution Implementation I
+module-6-cryptography-secure-solution-implementation
 
 ## Objective
 To understand cryptographic concepts and how secure solutions are implemented to protect data and communications.
