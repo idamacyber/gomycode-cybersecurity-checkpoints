@@ -25,8 +25,7 @@ This module helped me understand how cybersecurity teams actively defend systems
 
 ## Evidence
 
-![Checkpoint 1](./Checkpoint%20active%20defense.png)
-![Checkpoint 2](./Checkpoint%20active%20defense%20(1).png)
-![Checkpoint 3](./Checkpoint%20active%20defense%20(2).png)
-![Checkpoint 4](./Checkpoint%20active%20defense%20(3).png)
-![Checkpoint 5](./Checkpoint%20active%20defense%20(4).png)
+<img src="./active-defense-1.png" width="100%" />
+
+<img src="./active-defense-2.png" width="100%" />
+
