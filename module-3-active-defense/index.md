@@ -23,12 +23,9 @@ Active defense is used in Security Operations Centers (SOC) to monitor systems c
 ## Summary
 This module helped me understand how cybersecurity teams actively defend systems by monitoring, detecting, and responding to threats using security tools and processes.
 
-## Evidence
+### 📊 Evidence & Documentation
 
-![Evidence 1](./evidence1.png)
-![Evidence 2](./evidence2.png)
-![Evidence 3](./evidence3.png)
-![Evidence 4](./evidence4.png)
-![Evidence 5](./evidence5.png)
+All screenshots and explanations for this module are documented in the Google Slides below:
 
-
+🔗 **Google Slides (Module 3 – Active Defense)**  
+(https://docs.google.com/presentation/d/1BNS81NCNovSplIKuFzUSsh9rm93Uns510YfOLbmdMgQ/edit?slide=id.p#slide=id.p)
