@@ -1,5 +1,5 @@
 # Gomycode Cybersecurity Checkpoints  
-**Student:** Idamacyber  
+Student: IDAMA VICTORY OTHUKE 
 
 ---
 
