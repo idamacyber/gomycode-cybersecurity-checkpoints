@@ -30,6 +30,14 @@ https://tryhackme.com/p/idamavothuke
 - Blue Team security concepts
 - Security tools and techniques
 
-- ## Profile Overview
+### 📊 Evidence & Documentation of Malware Classification
 
-![TryHackMe Profile](tryhackme.png)
+All screenshots and explanations for this module are documented here:
+
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1oGtoFZj4_46ktPl9t475m_ee-qzv_21FFWjFs0hlZnw/edit?usp=sharing)
+
+### 📊 Evidence & Documentation of Security Information and Event Management (SIEM)
+
+All screenshots and explanations for this module are documented here:
+
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/13TIrvURyyss5FUqHMBhnYUA0HERyD5rFDtSKCvpJg-c/edit?usp=sharing)
