@@ -58,6 +58,8 @@ This document contains evidence of hands-on SOC analyst practice,
 including alert triage, SIEM investigation, incident reporting,
 and performance metrics (MTTR, dwell time).
 
+## Hands-on Threat Hunting.
+
 🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/19chx-IR2GUGK7tadmLCWfOuRlI4xlZAvsL656L_hCUI/edit?usp=sharing)
 
 This document contains evidence of hands-on threat hunting.
