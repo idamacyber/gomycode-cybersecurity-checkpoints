@@ -50,7 +50,7 @@ All screenshots and explanations for this module are documented here:
 
 ## SOC Analyst Hands-on Practice
 
-📄 [SOC Analyst Practice – TryHackMe](tryhackme/SOC_Analyst_Practice_TryHackMe.pdf)
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1XFwUpTN0iyRwHCtfWE7rNq1WYIQ39aPdYYDjB3RNlz8/edit?usp=sharing)
 
 This document contains evidence of hands-on SOC analyst practice,
 including alert triage, SIEM investigation, incident reporting,
