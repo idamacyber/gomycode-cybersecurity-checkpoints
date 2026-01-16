@@ -11,6 +11,7 @@ This section documents my hands-on cybersecurity learning using TryHackMe.
 - Blue Team security concepts
 - Threat detection and analysis
 - SOC Analyst Hands-on Practice
+- Hands on Threat Hunting
 
 ## Tools Used
 - Nmap
@@ -56,4 +57,8 @@ All screenshots and explanations for this module are documented here:
 This document contains evidence of hands-on SOC analyst practice,
 including alert triage, SIEM investigation, incident reporting,
 and performance metrics (MTTR, dwell time).
+
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/19chx-IR2GUGK7tadmLCWfOuRlI4xlZAvsL656L_hCUI/edit?usp=sharing)
+
+This document contains evidence of hands-on threat hunting.
 
