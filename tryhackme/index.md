@@ -10,6 +10,7 @@ This section documents my hands-on cybersecurity learning using TryHackMe.
 - Linux and Windows basics
 - Blue Team security concepts
 - Threat detection and analysis
+- SOC Analyst Hands-on Practice
 
 ## Tools Used
 - Nmap
